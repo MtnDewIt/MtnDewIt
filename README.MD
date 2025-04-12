@@ -18,6 +18,6 @@
 
 <div align="center">
   <a href="https://wakatime.com/@MtnDewIt">
-    <img width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=MtnDewIt&theme=midnight-purple&hide_border=true&hide_title=true" />
+    <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=MtnDewIt&theme=midnight-purple&hide_border=true&hide_title=true" />
   </a>
 </div>
