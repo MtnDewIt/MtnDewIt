@@ -1,9 +1,7 @@
 <div align="center">
-  <a href="https://github.com/MtnDewIt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtnDewIt&theme=midnight-purple&hide_border=true&layout=compact" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtnDewIt&theme=midnight-purple&hide_border=true&include_all_commits=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MtnDewIt&theme=midnight-purple&hide_border=true" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtnDewIt&theme=midnight-purple&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtnDewIt&theme=midnight-purple&hide_border=true&include_all_commits=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MtnDewIt&theme=midnight-purple&hide_border=true" />
 </div>
 
 <div align="center">
