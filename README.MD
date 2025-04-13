@@ -2,7 +2,7 @@
   <a href="https://github.com/MtnDewIt">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtnDewIt&theme=github_dark&hide_border=false&border_color=2e343b&layout=compact" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtnDewIt&theme=github_dark&hide_border=false&border_color=2e343b&include_all_commits=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MtnDewIt&theme=github_dark_blue&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MtnDewIt&theme=github_dark_blue&hide_border=false&border=2e343b" />
   </a>
 </div>
 
